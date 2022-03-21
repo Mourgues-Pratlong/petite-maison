@@ -1,4 +1,4 @@
-<LINK rel=STYLESHEET href="/Users/eliedaviron/CODE/cr.css" type="text/css">
+<LINK rel=STYLESHEET href="cr.css" type="text/css">
 
 # Comment prendre soin de la petite maison
 
