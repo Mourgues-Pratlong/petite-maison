@@ -143,13 +143,14 @@ Peur que des personnes de la famille se sentent dépossédées, lésées, dans u
 Crainte que les personnes avec des animaux et les personnes phobiques n'arrivent pas à s'accorder sur ce que c'est qu'une maison propre.
 
 Crainte pour l'entretien des rideaux.
+
 ___
 
 ## Quelques règles à discuter
 
-Tabac dans la maison.  
-Animaux dans la chambre.  
-Chaussures dans la chambre.  
+Tabac dans la maison
+Animaux dans la chambre
+Chaussures dans la chambre
 
 ___
 
