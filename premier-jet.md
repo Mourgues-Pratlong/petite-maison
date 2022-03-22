@@ -157,3 +157,5 @@ ___
 ## Des indications pour comprendre les besoins de la maison
 
 Cette maison héberge différentes formes de vie. Les mouches salissent les vitres, les araignées tissent, les vrillettes s'installent dans les poutres, les enduits s'effritent, des passants traversent la maison. Pour une semaine de vie humaine, il y a trois semaines de vie invisible. Entretenir la maison, c'est nettoyer souvent plus que ce qu'on a pu salir.
+
+[dépot GitHub](https://github.com/Mourgues-Pratlong/petite-maison)
