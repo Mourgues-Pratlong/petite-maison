@@ -8,7 +8,7 @@ Comment financer cette maison, l'entretenir et qu'elle reste accueillante ?
 Que faire de la propriété privée ?  
 Comment faire venir à Pébrac des personnes avec qui on a des choses à partager ?
 
-## Notre proposition 
+## Notre proposition
 
 **Partager la petite maison de Pébrac.**
 
