@@ -13,6 +13,7 @@ Comment faire venir à Pébrac des personnes avec qui on a des choses à partage
 **Partager la petite maison de Pébrac.**
 
 **Faire venir à Pébrac des personnes pour qui prendre soin d'un lieu porte une réflexion plus large.**
+  
 ___
 
 ## Comment ?
