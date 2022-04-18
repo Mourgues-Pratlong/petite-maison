@@ -41,7 +41,7 @@ De nouvelles personnes peuvent entrer dans ce groupe mais avant de  le faire, la
 
 On souhaite expérimenter des façons d'habiter la maison qui ne soient pas liées au droit de propriété mais plutôt à l'usage, au soin apporté.  
 
-On ne connait pas encore bien les attentes des propriétaires (Anne, Félix, Alice, Eliza, Fanny et Benoît). On imagine déjà que certaines choses vont rester de leur prérogative et on compte vérifier ce à quoi elles et ils consentent tout du long.
+Les propriétaires (Anne, Félix, Alice, Eliza, Fanny et Benoît) sont partantes et partants. Certaines choses vont rester de leur prérogative et on compte vérifier ce à quoi elles et ils consentent tout du long.
 
 ### En partageant des façons de faire
 
@@ -71,8 +71,6 @@ Un radiateur allumé rajoute 10€ par jour.
 ___
 
 ## On commence par quoi ?
-
-Envoyer la proposition à la famille et en discuter.
 
 Envoyer la proposition à des personnes pré-senties et demander des retours :
 
@@ -111,6 +109,7 @@ ___
 
 ### Chantiers prévus
 
+- installation d'un poêle au rez-de-chaussée et suppression du chauffage électrique
 - installation fil à linge
 - débroussaillage jardin
 - huile de lin sur les planchers
@@ -127,23 +126,23 @@ ___
 
 ## Nos craintes
 
-Comment transmettre de bons usages dans la petite maison ?
+comment transmettre de bons usages dans la petite maison ?
 
 - peur qu'un cahier de liaison empêche le lien et la discussion,
 - crainte qu'un cahier de procédure encadre trop et donc déresponsabilise,
 - crainte qu'en l'absence d'instructions écrites, la facilité technologique ne l'emporte (internet, smartphone et radiateur électrique).
 
-Comment conserver le caractère du petit salon si on déménage le poêle dans la cuisine ?
+comment conserver le caractère du petit salon si on déménage le poêle dans la cuisine ?
 
-Comment on choisit les personnes à qui on propose de venir ?
+comment on choisit les personnes à qui on propose de venir ?
 
-- peur que viennent des personnes peu soigneuses, qui ne soient pas disposées à apprendre.
+peur que viennent des personnes peu soigneuses, qui ne soient pas disposées à apprendre.
 
-Peur que des personnes de la famille se sentent dépossédées, lésées, dans une situation inconfortable. Il faudrait prendre le temps de bien comprendre les besoins et les attentes de Alice,  Eliza, Félix, Anne et Benoît.
+peur que des personnes de la famille se sentent dans une situation inconfortable (dépossédées, lésées). Il faudrait prendre le temps de bien comprendre les besoins et les attentes de Alice,  Eliza, Félix, Anne et Benoît.
 
-Crainte que les personnes avec des animaux et les personnes phobiques n'arrivent pas à s'accorder sur ce que c'est qu'une maison propre.
+crainte que les personnes avec des animaux et les personnes phobiques n'arrivent pas à s'accorder sur ce que c'est qu'une maison propre.
 
-Crainte pour l'entretien des rideaux.
+crainte pour l'entretien des rideaux.
 
 ___
 

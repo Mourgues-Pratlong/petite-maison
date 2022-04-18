@@ -4,12 +4,21 @@
 
 ## 2022
 
+---
+
 ### Dépenses
 
-Electricité Hiver : 550€
+Electricité Hiver : 350€  
+Assurance Axa (janvier-avril) : 100€  
 
-### Recette
+TOTAL : 450€
+
+---
+
+### Recettes
 
 Mars : 150 €
 
-___
+TOTAL : 150€
+
+---
