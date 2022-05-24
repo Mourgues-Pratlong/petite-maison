@@ -1,4 +1,4 @@
-<LINK rel=STYLESHEET href="cr.css" type="text/css">
+<LINK rel=STYLESHEET href="cr.css" >
 
 # Comment prendre soin de la petite maison
 
@@ -48,6 +48,39 @@ Les propriétaires (Anne, Félix, Alice, Eliza, Fanny et Benoît) sont partantes
 Les personnes qui vivent à Pébrac attendent des personnes qui passent un effort d'ouverture et d'apprentissage.
 
 Elles ne proposent pas un séjour "chez l'habitant", un sujet de reportage ou un stage d'initiation à la campagne.
+
+
+___
+
+## Nos craintes
+
+Comment transmettre de bons usages dans la petite maison ?
+
+- peur qu'un cahier de liaison empêche le lien et la discussion,
+- crainte qu'un cahier de procédure encadre trop et donc déresponsabilise,
+- crainte qu'en l'absence d'instructions écrites, la facilité technologique ne l'emporte (internet, smartphone et radiateur électrique).
+
+Comment conserver le caractère du petit salon si on déménage le poêle dans la cuisine ?
+
+Comment on choisit les personnes à qui on propose de venir ?
+
+- peur que viennent des personnes peu soigneuses, qui ne soient pas disposées à apprendre.
+
+- crainte que les personnes avec des animaux et les personnes phobiques n'arrivent pas à s'accorder sur ce que c'est qu'une maison propre.
+
+___
+
+## Quelques règles à discuter
+
+Tabac dans la maison  
+Animaux dans la chambre  
+Chaussures dans la chambre  
+
+___
+
+## Des indications pour comprendre les besoins de la maison
+
+Cette maison héberge différentes formes de vie. Les mouches salissent les vitres, les araignées tissent, les vrillettes s'installent dans les poutres, les enduits s'effritent, des passants traversent la maison. Pour une semaine de vie humaine, il y a trois semaines de vie invisible. C'est donc pas mal d'entretien.
 ___
 
 ## Estimation du prix d'une journée d'utilisation
@@ -102,6 +135,7 @@ Envoyer la proposition à des personnes pré-senties et demander des retours :
 - Julia
 - Alicia
 - Luna
+- Margarita
 
 ___
 
@@ -121,41 +155,5 @@ ___
 - installation du poêle : 600€
 - porte cuisine : 2000€
 - huisseries cave : 2000€
-
-___
-
-## Nos craintes
-
-comment transmettre de bons usages dans la petite maison ?
-
-- peur qu'un cahier de liaison empêche le lien et la discussion,
-- crainte qu'un cahier de procédure encadre trop et donc déresponsabilise,
-- crainte qu'en l'absence d'instructions écrites, la facilité technologique ne l'emporte (internet, smartphone et radiateur électrique).
-
-comment conserver le caractère du petit salon si on déménage le poêle dans la cuisine ?
-
-comment on choisit les personnes à qui on propose de venir ?
-
-peur que viennent des personnes peu soigneuses, qui ne soient pas disposées à apprendre.
-
-peur que des personnes de la famille se sentent dans une situation inconfortable (dépossédées, lésées). Il faudrait prendre le temps de bien comprendre les besoins et les attentes de Alice,  Eliza, Félix, Anne et Benoît.
-
-crainte que les personnes avec des animaux et les personnes phobiques n'arrivent pas à s'accorder sur ce que c'est qu'une maison propre.
-
-crainte pour l'entretien des rideaux.
-
-___
-
-## Quelques règles à discuter
-
-Tabac dans la maison  
-Animaux dans la chambre  
-Chaussures dans la chambre  
-
-___
-
-## Des indications pour comprendre les besoins de la maison
-
-Cette maison héberge différentes formes de vie. Les mouches salissent les vitres, les araignées tissent, les vrillettes s'installent dans les poutres, les enduits s'effritent, des passants traversent la maison. Pour une semaine de vie humaine, il y a trois semaines de vie invisible. Entretenir la maison, c'est nettoyer souvent plus que ce qu'on a pu salir.
 
 [dépôt GitHub](https://github.com/Mourgues-Pratlong/petite-maison)
